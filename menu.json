@@ -1,0 +1,40 @@
+{
+    "sections": [
+        {
+            "title": "Classici (Classic)",
+            "items": [
+                {
+                    "name": "Toasted Bread (GFO)",
+                    "description": "Choice of sourdough, fruit or gluten-free (2 slices), served with butter and jam",
+                    "cost": "$8",
+                    "options": []
+                },
+                {
+                    "name": "Ham & Cheese Croissant",
+                    "description": "",
+                    "cost": "$8.5",
+                    "options": []
+                },
+                {
+                    "name": "Prosciutto Egg Roll",
+                    "description": "Ciabatta bread, two eggs, prosciutto and choice of tomato sauce, barbecue sauce or aioli sauce",
+                    "cost": "$13",
+                    "options": []
+                },
+                {
+                    "name": "Bruschetta",
+                    "description": "Sourdough bread toasted (2 slices) with CHOPPED FRESH TOMATO and Garlic OR PESTO SAUCE",
+                    "cost": "$11",
+                    "options": []
+                },
+                {
+                    "name": "Savory Pie",
+                    "description": "Beef Pie served with caramelized onions and peas",
+                    "cost": "$13",
+                    "options": []
+                }
+            ]
+        }
+
+    ]
+}
